@@ -144,7 +144,7 @@ Follow these simple steps:
 ## Usage
 [**Click here for a detailed explanation of all the functions in the program and the analysis of the results in the Hebrew language (it is recommended to use some translation software such as Google Translate in order to translate into another language).**](https://github.com/RamMichaeli17/Erdos-Renyl-Model-for-generating-Random-Graphs/raw/master/Erdos%20Renyl%20Model%20(for%20generating%20Random%20Graphs)%20ReadMe.pdf)
 
-![Just Draw It - Demo Gif](https://github.com/RamMichaeli17/Erdos-Renyl-Model-for-generating-Random-Graphs/raw/readme/usage.gif)
+![Just Draw It - Demo Gif](https://github.com/RamMichaeli17/Erdos-Renyl-Model-for-generating-Random-Graphs/raw/master/usage.gif)
 
 
 
